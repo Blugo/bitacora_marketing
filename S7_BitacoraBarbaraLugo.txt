@@ -1,0 +1,15 @@
+Bitácora de trabajo del equipo de marketing
+1)	¿Qué hice desde la última reunión diaria hasta ahora? 2)	¿En qué voy a estar trabajando el día de hoy hasta la próxima reunión diaria? 3)	¿Qué problemas o impedimentos tengo? 
+
+Sprint 7 - Semana del 3 al 7 de octubre
+
+Miércoles 3  Horas dedicadas:   6         Lugar: Impact HUB1) Reunión de planificación de Sprint, estimación de tareas y asignación a cada miembro. 2) En las tareas asignadas.3) Ninguna.Jueves 4  Horas dedicadas:   6         Lugar: Impact HUB1) Trabajar en la presentación para la EDM8.1-S7 2) Asistir a la Cámara Japonesa para la ejecución de la EDM8.1-S73) No pude subir el Sprint diario a GitHUB, por un desconfiguración que no supe resolver. Viernes 5  Horas dedicadas:   8         Lugar: Impact HUB1) Se completó la EDM8.1-S7 y avancé en la EDM11.2-S7.2) Voy a terminar la EDM11.2-S7.3) No pude subir el Sprint diario a GitHUB porque no tuve tiempo para que me ayudaran a resolver el inconveniente del día anterior. 
+
+
+Sábado 6  Horas dedicadas:  8         Lugar: Casa1) Terminé la tarea EDM11.2-S7 para que el equipo de Desarrollo pueda terminar de crear la landing page. Terminé el requerimiento de Investigación para la HU EDI4-S7.
+2) Mañana voy a revisar la EDM6-S7. 3) No se me presentó ninguna dificultad.  
+
+Domingo 7  Horas dedicadas:  3         Lugar: Casa
+
+1) Revisar el avance de la EDM6-S7 que realiza Patricia Briceño y buscar ideas para la EDM11.3-S7. 
+2) Mañana voy a trabajar en EDM11.3-S7. 3) No se me presentó ninguna dificultad.
